@@ -1,10 +1,6 @@
 # 💫 About Me:
 🌍 Hello, I'm Moustapha, a data scientist based in Paris, passionate about creating impactful projects in Data Science and Artificial Intelligence.  <br>🎓 I hold two Master’s degrees from [Université Paris Cité](https://master.math.u-paris.fr/parcours/data/) — one in Applied Mathematics and another in Computer Science with a focus on Artificial Intelligence.  <br>💼 Currently working as a Data Scientist Consultant at Act-On Group, where I help design, optimize, and deploy machine learning solutions.  <br>🤖 I’m particularly interested in machine learning, generative AI (GenAI), and scalable, interpretable models for real-world applications.  <br>🚀 Always curious and learning — one project and one commit at a time.<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cheikh-mouhamadou-moustapha-gueye-425729202/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cheikheahmad@gmail.com) 
-
 ## 💼 Work Experience
 
 **Junior Data Scientist Consultant** – *Act-On Group, Neuilly-sur-Seine, France*  
@@ -14,7 +10,7 @@
 - Industrialized the solution using Docker and deployed a user-facing interface with Streamlit.  
 - Monitored predictions and performance across multiple industrial sites.
 
-**Data Scientist (Apprenticeship)** – *AXA, Suresnes, France*  
+**Data Scientist intern** – *AXA, Suresnes, France*  
 📅 *April 2024 – September 2024*  
 - Modeled prospect conversion for multi-risk home insurance (MRH) using CatBoost, XGBoost, LightGBM, and ExplainableBoostingMachine.  
 - Used MLflow and Kedro for training pipelines and model tracking.  
@@ -57,6 +53,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cheikh-mouhamadou-moustapha-gueye-425729202/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cheikheahmad@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cheikh-ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
