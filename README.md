@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/9aOSWuU.png" alt="Transformer Architecture" width="700" height="auto"/>
+  <img src="https://imgur.com/9aOSWuU.png" alt="Transformer Architecture" width="700" height="300"/>
 </p>
 
 # 💫 About Me:
