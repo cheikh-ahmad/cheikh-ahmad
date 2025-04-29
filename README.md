@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
 🌍 Hello, I'm Moustapha, a data scientist based in Paris, passionate about creating impactful projects in Data Science and Artificial Intelligence.  <br>🎓 I hold two Master’s degrees from [Université Paris Cité](https://master.math.u-paris.fr/parcours/data/) — one in Applied Mathematics and another in Computer Science with a focus on Artificial Intelligence.  <br>💼 Currently working as a Data Scientist Consultant at Act-On Group, where I help design, optimize, and deploy machine learning solutions.  <br>🤖 I’m particularly interested in machine learning, generative AI (GenAI), and scalable, interpretable models for real-world applications.  <br>🚀 Always curious and learning — one project and one commit at a time.<br>
 
 ## 💼 Work Experience
