@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dwbsfefcw/image/upload/v1714390734/transformer-architecture.webp" alt="Transformer Architecture" width="700"/>
-</p>
-
 # 💫 About Me:
 
 <p align="center">
