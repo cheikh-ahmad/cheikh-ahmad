@@ -1,3 +1,5 @@
+<img src="assets/nom-de-ton-image.jpg" alt="AI Passion" width="600"/>
+
 # 💫 About Me:
 
 <p align="center">
