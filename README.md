@@ -1,4 +1,6 @@
-<img src="assets/nom-de-ton-image.jpg" alt="AI Passion" width="600"/>
+<p align="center">
+  <img src="https://res.cloudinary.com/dwbsfefcw/image/upload/v1714390734/transformer-architecture.webp" alt="Transformer Architecture" width="700"/>
+</p>
 
 # 💫 About Me:
 
