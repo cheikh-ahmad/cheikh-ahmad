@@ -5,26 +5,15 @@
 
 **Junior Data Scientist Consultant** – *Act-On Group, Neuilly-sur-Seine, France*  
 📅 *March 2025 – Present*  
-- Built a machine learning pipeline to forecast short- and medium-term energy demand (Python, Scikit-learn, LightGBM).  
-- Optimized production planning to reduce energy loss.  
-- Industrialized the solution using Docker and deployed a user-facing interface with Streamlit.  
-- Monitored predictions and performance across multiple industrial sites.
 
 **Data Scientist intern** – *AXA, Suresnes, France*  
 📅 *April 2024 – September 2024*  
-- Modeled prospect conversion for multi-risk home insurance (MRH) using CatBoost, XGBoost, LightGBM, and ExplainableBoostingMachine.  
-- Used MLflow and Kedro for training pipelines and model tracking.  
-- Developed a model monitoring tool to analyze performance in real time, detect drift, and trigger alerts.
 
 **Tutor in Math & Computer Science** – *Cours Legendre, Paris, France*  
 📅 *April 2024 – Present*  
-- Supported high school and early university students in strengthening their understanding of mathematics and computer science.
 
 **Software Engineer Intern** – *LaMSN, Paris, France*  
 📅 *April 2022 – July 2022*  
-- Developed a mixed-reality application for Microsoft HoloLens using C#.  
-- Integrated the application with the Avicenne Hospital database.  
-- Used GitHub for version control and collaborative development.
 
 # 💻 Tech Stack:
 
