@@ -10,7 +10,7 @@
 📅 *April 2024 – September 2024*  
 
 **Tutor in Math & Computer Science** – *Cours Legendre, Paris, France*  
-📅 *April 2024 – Present*  
+📅 *December 2023 – December 2024  
 
 **Software Engineer Intern** – *LaMSN, Paris, France*  
 📅 *April 2022 – July 2022*  
