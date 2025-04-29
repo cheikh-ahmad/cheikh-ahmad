@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-[![Optuna](https://avatars.githubusercontent.com/u/57251745?s=200&v=4)](https://github.com/optuna)
+![Optuna](https://img.shields.io/badge/Optuna-00427E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAABlBMVEUAAAD///+l2Z/dAAAARUlEQVR4Ae3NMQEAAAQAMMELD4d7gAEpKRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRgY5R+BB8ZybWzAAAAAElFTkSuQmCC)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
