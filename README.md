@@ -15,7 +15,7 @@
 ## 💼 Work Experience
 
 **Junior Data Scientist Consultant** – *Act-On Group, Neuilly-sur-Seine, France*  
-📅 *March 2025 – Present*  
+📅 *March 2025 – September 2025*  
 
 **Data Scientist intern** – *AXA, Suresnes, France*  
 📅 *April 2024 – September 2024*  
