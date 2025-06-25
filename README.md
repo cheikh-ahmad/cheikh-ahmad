@@ -14,7 +14,7 @@
 
 ## 💼 Work Experience
 
-**Data Scientist ** – *Ascentiel group, Rueil-Malmaison, France*  
+**Data Scientist** – *Ascentiel group, Rueil-Malmaison, France*  
 📅 *September 2025 – Present*  
 
 **Junior Data Scientist Consultant** – *Act-On Group, Neuilly-sur-Seine, France*  
